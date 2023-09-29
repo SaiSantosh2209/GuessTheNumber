@@ -1,4 +1,4 @@
-# Guess the Number ![NumberGIF](https://github.com/SaiSantosh2209/GuessTheNumber/assets/83724995/99d9da46-6dc6-48e0-8883-1a80188a9ca0)
+# Guess the Number ![NumberGIF]
 
 
 
