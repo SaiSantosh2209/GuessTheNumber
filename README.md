@@ -1,4 +1,4 @@
-# Guess the Number ![NumberGIF]
+# Guess the Number
 
 
 
