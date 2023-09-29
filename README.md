@@ -1,6 +1,8 @@
-# Number Guessing Game
+# Guess the Number ![NumberGIF](https://github.com/SaiSantosh2209/GuessTheNumber/assets/83724995/99d9da46-6dc6-48e0-8883-1a80188a9ca0)
 
-Welcome to the Number Guessing Game! This simple Python game challenges you to guess a random number between 1 and 100. You can choose your preferred difficulty level, and the game will provide hints and keep track of your remaining attempts.
+
+
+ This simple Python game challenges you to guess a random number between 1 and 100. You can choose your preferred difficulty level, and the game will provide hints and keep track of your remaining attempts.
 
 ![Screenshot 2023-09-30 013012](https://github.com/SaiSantosh2209/GuessTheNumber/assets/83724995/a9091924-5892-495e-a268-e458f2c9d8ea)
 
