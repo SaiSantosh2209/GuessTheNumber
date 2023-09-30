@@ -28,13 +28,13 @@ Before you begin, ensure you have met the following requirements:
 2. Navigate to the project directory:📍
 
    ```bash
-   cd number-guessing-game
+   cd GuessTheNumber
    ```
 
 3. Run the game: ▶️
 
    ```bash
-   python game.py
+   python main.py
    ```
 
 ## How to Play 🧸
